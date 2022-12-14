@@ -1,11 +1,13 @@
 ### 👋 Hi there
 
-- 💻 I’m a senior full-stack web developer. For front-end I use React.js and Vue.js, for back-end - Node.js.
+- 👨‍💻 I'm Slava, I'm 26 y.o
+- 💻 I’m a senior full-stack web developer. For front-end I use React.js and Vue.js, for back-end - Node.js
 - 🚀 Predominantly in my career, I've been working as a developer at IT startups
 - 🏄 I like traveling, currently, I'm living a digital nomad life
 
 
-[My portfolio](https://slava-nik.github.io/)
+
+[My portfolio website](https://slava-nik.github.io/)
 
 <!---
 Slava-Nik/Slava-Nik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
