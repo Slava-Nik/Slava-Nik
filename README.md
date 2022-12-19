@@ -7,7 +7,7 @@
 
 
 
-[My portfolio website](https://slava-nik.github.io/)
+[My portfolio and CV](https://slava-nik.github.io/)
 
 <!---
 Slava-Nik/Slava-Nik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
