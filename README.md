@@ -1,7 +1,7 @@
 ### 👋 Hi there
 
 - 👨‍💻 I'm Slava, I'm 26 y.o
-- 💻 I’m a senior full-stack web developer. For front-end I use React.js and Vue.js, for back-end - Node.js
+- 💻 I’m a senior full-stack web developer. For front-end I use React.js and Vue.js, for back-end - Node.js (Nest.js)
 - 🚀 Predominantly in my career, I've been working as a developer at IT startups
 - 🏄 I like traveling, currently, I'm living a digital nomad life
 
